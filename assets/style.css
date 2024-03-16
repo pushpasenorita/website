@@ -17,6 +17,7 @@
     border-radius: 13px;
     height:40vh;
     width:25vh;
+    background-color: #bc73;
     
 }
 .logo{
@@ -29,9 +30,7 @@
 .details{
     color: #af4563;
 }
-.bla{
-    background-color: #bc73;
-}
+
 .aadhar{
     border: 1px solid #bc73;
     padding: 0px -5px 0px 0px;
