@@ -48,3 +48,10 @@
     bottom: auto;
     transform: matrix(1, 0, 0, 1, 60, -30);
 }
+.anime{
+    position: relative;
+}
+.anime2{
+    position: absolute;
+    left: -300px;
+}
